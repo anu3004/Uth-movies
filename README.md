@@ -38,7 +38,7 @@ Movix homepage
 🛠️ Installation Steps:
 1. Clone the repository
 
-git clone https://github.com/masud-rana44/Movix.git
+git clone https://github.com/anu3004/Uth-movies
 2. Install the required dependencies
 
 npm install
@@ -47,7 +47,7 @@ npm install
 npm run dev
 4. Access the application at
 
-http://localhost:5173
+http://localhost:5153
 💻 Built with
 Technologies used in the project:
 
